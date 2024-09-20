@@ -44,7 +44,7 @@ The output of this project is stored in the `output` directory. It contains the 
 * `models/rf.pkl` - Trained Random Forest model
 * `models/xgb.pkl` - Trained XGBoost model
 
-*Note: This README.md is co-authored with `text-davinci-003`.*
+
 
 ## References
 - OpenAI repo: https://github.com/openai/openai-cookbook/ 
